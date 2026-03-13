@@ -38,7 +38,5 @@ Step 10.:- After generate the gcode format then follow the these instruction
 ## NAME: R P LOSHINI
 ## REGISTER NUMBER: 212225230155
 
-## RESULT:
-Thus the given product using reverse engineering is developed using 3D Printer
-33#### RESULT:
-###   Thus the given product is reverse engineered and prototyped using 3D Printer.
+### RESULT:
+Thus the given product is reverse engineered and prototyped using 3D Printer.
